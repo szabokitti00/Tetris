@@ -1,0 +1,6 @@
+A tetris játékot a játékos a billentyűzet bizonyos gombjaival játszhatja, és célja minál több sor megtöltése és ezáltali törlése. 
+Használható billentyűk:
+>FEL és LE: az alakzatokat forgatják jobbra és balra; 
+>BAL és JOBB: az alakzatot forgatják jobbra és balra;
+>D: az alakzatot egy sorral lejjebb helyezi a táblán;
+>SPACE: az alakzatot a tábla aljára helyezi a táblán;
